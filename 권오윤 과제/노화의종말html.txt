@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>asocietyofdeadpoets</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>
+    노화의 종말
+    <a href="index.html" class="button">목차</a>
+</h1>
+<ul>
+    <li><h3>작가</h3></li>
+    <h3>데이비드A.싱글레어</h3>
+    <li><h3>출판일</h3></li>
+    <h3>2020년</h3>
+    <li><h3>감상평에 대한 AI그림</h3></li>
+    <h3>정말 노화가 종말된다면 좋을 수도 있겠지만 그에 따른 피해도 클 것이라고 생각이 들었다.<br> 
+    </h3>
+    <img src="노화의 종말.webp" alt=노화의 종말">
+    <li><h3>감상평에 대한 AI평가</h3></li>
+    <h3>네 감상평은 균형 잡힌 시각을 가지고 있어. 노화의 종말이 긍정적인 측면을 가질 수 있지만, 그에 따른 사회적, 윤리적 문제도 함께 고려해야 한다는 점을 지적한 것이 인상적이야. 책이 제시하는 혁신적인 과학적 접근을 수용하면서도 비판적 사고를 유지한 점이 좋았어!
+    </h3>
+</ul>
+
+</body>
+</html>

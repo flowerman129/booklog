@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>asocietyofdeadpoets</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<h1>
+    트와일라잇
+    <a href="index.html" class="button">목차</a>
+</h1>
+<ul>
+    <li><h3>작가</h3></li>
+    <h3>스테프니 메이어</h3>
+    <li><h3>출판일</h3></li>
+    <h3>2009년</h3>
+    <li><h3>감상평에 대한 AI그림</h3></li>
+    <h3>정말 몰입하게 만들고 판타지 소설이지만 너무 재미있었다.<br> 
+    </h3>
+    <img src="트와일라잇.webp" alt=트와일라잇">
+    <li><h3>감상평에 대한 AI평가</h3></li>
+    <h3>네 감상평에서 책에 대한 순수한 즐거움과 몰입감을 잘 표현했어. '트와일라잇'이 판타지 요소를 가지고 있지만, 스토리의 흡입력이 강하다는 점을 강조한 게 공감돼. 재미를 중시하는 독자로서의 솔직한 반응이 느껴져서 좋은 감상평이야!
+    </h3>
+</ul>
+
+</body>
+</html>
